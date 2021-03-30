@@ -1,5 +1,5 @@
 (function () {
-      const url = "https://swag-bag-backend.herokuapp.com/api/products";
+      const url = "http://localhost:5000/api/products";
       // Modal Popover component
       var modaBoxPopover = document.createElement("div");
       modaBoxPopover.className = "modaBoxPopover";
